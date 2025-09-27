@@ -1,16 +1,18 @@
-<<<<<<< HEAD
-# React + Vite
+# Royal Challengers Bangalore Tribute Website 🏏
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stunning, interactive tribute website for Royal Challengers Bangalore celebrating their IPL 2025 championship victory.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Immersive Animations**: GSAP-powered smooth animations and transitions
+- **Responsive Design**: Perfectly optimized for all devices
+- **Interactive Elements**: Mouse parallax effects, hover animations
+- **Modern UI**: Glassmorphism effects and gradient designs
+- **Performance Optimized**: Fast loading and smooth scrolling
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# rcb
->>>>>>> c25e16d4be4d200935d713a5a3a8832852d34697
+- **Frontend**: React 18 + Vite
+- **Animations**: GSAP + ScrollTrigger
+- **Styling**: Tailwind CSS
+- **Icons**: Remix Icons
